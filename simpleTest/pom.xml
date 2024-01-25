@@ -20,9 +20,9 @@
     <jacoco.version>0.8.6</jacoco.version>
  
     <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.login>sqa_68c67cc640739f84078fc5862f82c328ba03da74</sonar.login>
-        <sonar.projectKey>26091_sca_project_pom:master</sonar.projectKey>
-        <sonar.projectName>26091_sca_project_pom</sonar.projectName>
+        <sonar.login>sqa_5d68d163d7649990709f523e306a5b9246b31a5d</sonar.login>
+        <sonar.projectKey>26042_SimpleJavaTest_WithSonarMavenPlugin:master</sonar.projectKey>
+        <sonar.projectName>26042_SimpleJavaTest_WithSonarMavenPlugin</sonar.projectName>
         <sonar.jacoco.reportPaths>target/jacoco.exec</sonar.jacoco.reportPaths>
 
   </properties> 
